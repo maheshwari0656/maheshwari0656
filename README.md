@@ -95,6 +95,35 @@ I'm a **Data Analyst** with a Computer Science background, passionate about buil
 
 ---
 
+## 🔭 I'm currently working on
+Automating data workflows and building reporting dashboards at **AuthBridge Research Services** — processing 500+ records daily using SQL, Excel macros, and Python to streamline operational reporting.
+
+## 👯 I'm looking to collaborate on
+- Data analytics and visualization projects (Power BI / Tableau dashboards)
+- ETL pipeline development and cloud data engineering (Azure / AWS)
+- Open-source Python tools for data cleaning and automation
+
+## 🤝 I'm looking for help with
+- Advanced **Azure Data Factory** and **Synapse Analytics** integrations
+- Building production-ready **ML pipelines** for real-world business problems
+- Growing my portfolio with impactful, end-to-end data projects
+
+## 🌱 I'm currently learning
+- **Azure Data Engineering** (Data Factory, Synapse, Databricks)
+- Advanced **DAX** for Power BI and complex data modeling
+- Machine Learning workflows with **Scikit-learn** and **TensorFlow**
+
+## 💬 Ask me about
+- SQL query optimization (CTEs, Window Functions, Joins)
+- Building automated Excel workflows with macros and pivot logic
+- Azure Document Intelligence & Blob Storage with Python
+- Getting started with data analytics as a self-taught practitioner
+
+## ⚡ Fun fact
+I published a **research paper on Stock Market Prediction** using LSTM deep learning and sentiment analysis in a UGC Care Listed journal — before landing my first data role! 📈
+
+---
+
 ## 💼 Work Experience
 
 | Period | Role | Company | Impact |

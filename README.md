@@ -1,165 +1,24 @@
-<div align="center">
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>Building data-driven solutions using **Python, SQL, and Azure**, and improving workflow automation in real-world business operations.<br><br>👯 I’m looking to collaborate on  <br>**Data Analytics, Data Engineering, and Machine Learning projects** involving real datasets and business use cases.<br><br>🤝 I’m looking for help with  <br>Advanced **Data Engineering concepts**, scalable pipelines, and optimizing cloud-based analytics solutions.<br><br>🌱 I’m currently learning  <br>**Advanced SQL, Machine Learning, and Cloud Technologies (Azure, AWS, GCP)** to move towards high-impact data roles.<br><br>💬 Ask me about  <br>**Python (Pandas, NumPy), SQL, Power BI, Data Cleaning, ETL, and Analytics Projects**<br><br>⚡ Fun fact  <br>I enjoy turning messy data into meaningful insights and automating repetitive tasks to save hours of manual effort.
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║         S P A R S H   M A H E S H W A R I                   ║
-║                  Data Analyst                                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwari0656@gmail.com)
-[![Location](https://img.shields.io/badge/India-🇮🇳-white?style=for-the-badge)](https://www.google.com/maps/place/India)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sparshified?igsh=bWtkbWMxbWZyMG13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sparshmaheshwari/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sparshified9?si=WneOLBoRy-LlsUWz) 
 
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=maheshwari0656&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=maheshwari0656&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheshwari0656&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maheshwari0656&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-## 👋 About Me
-
-```python
-sparsh = {
-    "role"       : "Data Analyst @ AuthBridge Research Services",
-    "education"  : "B.Tech CSE (Data Science) — Lovely Professional University",
-    "focus"      : ["SQL", "Python", "Power BI", "Azure"],
-    "published"  : "Stock Market Prediction — Juni Khyat Journal (UGC Care Listed)",
-    "goal"       : "Turning raw data into decisions that matter",
-}
-```
-
-I'm a **Data Analyst** with a Computer Science background, passionate about building data pipelines, automating workflows, and delivering dashboards that drive real business outcomes. Currently at **AuthBridge**, analyzing 500+ records daily, automating Excel workflows, and supporting cross-functional reporting cycles.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=maheshwari0656&icon=2&color=8)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Programming & Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Databases & Data Engineering**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Cloud & Tools**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔷 Azure Document Intelligence Exploration
-> Automated document processing pipeline using **Azure Document Intelligence + Python**
-
-- ⚡ Reduced manual processing effort by **~10+ hours/week** through automation
-- 🔄 Built end-to-end data extraction, cleaning & structuring workflows
-- 📦 Output prepared for downstream analytics and reporting
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
-
----
-
-### 🔷 Azure Blob Storage Integration Using Python
-> Scalable data storage pipeline for analytics workflows
-
-- 🗄️ Developed Python pipelines for uploading, managing & retrieving data from **Azure Blob Storage**
-- 📈 Improved data accessibility and efficiency for analytics processes
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
-
----
-
-### 📈 Stock Market Prediction *(Published Research)*
-> Predictive modeling using **LSTM, Vader Sentiment Analysis & Beta Factor**
-
-- 🧠 Built models in Python to forecast stock prices using deep learning
-- 📰 Published in **Juni Khyat Journal (UGC Care Listed)** — Apr 2022
-
----
-
-## 🔭 I'm currently working on
-Automating data workflows and building reporting dashboards at **AuthBridge Research Services** — processing 500+ records daily using SQL, Excel macros, and Python to streamline operational reporting.
-
-## 👯 I'm looking to collaborate on
-- Data analytics and visualization projects (Power BI / Tableau dashboards)
-- ETL pipeline development and cloud data engineering (Azure / AWS)
-- Open-source Python tools for data cleaning and automation
-
-## 🤝 I'm looking for help with
-- Advanced **Azure Data Factory** and **Synapse Analytics** integrations
-- Building production-ready **ML pipelines** for real-world business problems
-- Growing my portfolio with impactful, end-to-end data projects
-
-## 🌱 I'm currently learning
-- **Azure Data Engineering** (Data Factory, Synapse, Databricks)
-- Advanced **DAX** for Power BI and complex data modeling
-- Machine Learning workflows with **Scikit-learn** and **TensorFlow**
-
-## 💬 Ask me about
-- SQL query optimization (CTEs, Window Functions, Joins)
-- Building automated Excel workflows with macros and pivot logic
-- Azure Document Intelligence & Blob Storage with Python
-- Getting started with data analytics as a self-taught practitioner
-
-## ⚡ Fun fact
-I published a **research paper on Stock Market Prediction** using LSTM deep learning and sentiment analysis in a UGC Care Listed journal — before landing my first data role! 📈
-
----
-
-## 💼 Work Experience
-
-| Period | Role | Company | Impact |
-|--------|------|---------|--------|
-| Jun 2025 – Present | Operation Associate | AuthBridge Research Services | Analyzed 500+ records/day; automated workflows cutting turnaround by **20–25%** |
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **B.Tech (Hons.) CSE — Data Science** | Lovely Professional University *(2018–2022)*
-
-📜 **Certifications:**
-- Excel Fundamentals for Data Analysis — *Coursera*
-- Microsoft SQL Server 2019 Essential Training — *LinkedIn Learning*
-- Full Stack Data Science & AI — *Naresh i Technologies*
-- Python Programming — *Codetantra*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh-maheshwari&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-maheshwari&layout=compact&theme=default&hide_border=true&title_color=0078D4)
-
-</div>
-
----
-
-<div align="center">
-
-*"Data is the new oil — but only if you know how to refine it."*
-
-📬 **maheshwari0656@gmail.com** | 📞 +91-9045610656
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
